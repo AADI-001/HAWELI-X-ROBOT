@@ -349,10 +349,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/mukeshbotzone/90"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/HAWELI_X_MANAGEMENT/1"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/mukeshbotzone/26"
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/HAWELI_X_MANAGEMENT/2"
                             ),
                         ],
                         [
