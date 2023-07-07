@@ -1,14 +1,14 @@
 {
-      "name": "Mukesh Robot",
+      "name": "Haweli Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
+      "logo": "https://graph.org/file/8ef711b72e94cb6b13c6a.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/Noob-Mukesh/MukeshRobot",
+   "repository": "https://github.com/AADI-001/HAWELI-X-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
