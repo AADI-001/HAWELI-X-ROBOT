@@ -1021,7 +1021,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != 2145093972 and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://github.com/noob-mukesh/MukeshRobot)"
+                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://t.me/th3_kisaki)"
                 f"\n\nʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]({DONATION_LINK})",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
@@ -1084,7 +1084,7 @@ def main():
                 caption=f"""
 ✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ 𝐌ᴜᴋᴇsʜ**
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ 𝐓ʜᴇ 𝐊ɪꜱᴀᴋɪ**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
