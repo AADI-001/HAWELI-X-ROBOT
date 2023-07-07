@@ -135,7 +135,7 @@ __mod_name__ = "Eᴠᴀʟ"
 __help__ = """
 ★ᴏᴡɴᴇʀ ᴄᴍᴅ ★
 
-©️ ʙʏ ᯾ [ɴᴏᴏʙ Mᴜᴋᴇsʜ](f"tg://user?id={OWNER_ID}"))
+©️ ʙʏ ᯾ [𝐓ʜᴇ 𝐊ɪꜱᴀᴋɪ](f"tg://user?id={OWNER_ID}"))
 
 ★ /eval :- to evaluate simple code
 ★ /ex :-  to execute code
