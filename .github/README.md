@@ -1,10 +1,10 @@
 <h1 align="center">𝐇ᴀᴡᴇʟɪ ✘ 𝐑ᴏʙᴏᴛ</h1>
 <p align="center">
-  <img src="https://github.com/AADI-001/HAWELI-X-ROBOT/blob/main/MukeshRobot/resources/mukesh.jpg">
+  <img src="https://graph.org/file/8ef711b72e94cb6b13c6a.jpg">
 </p>
 <p align="center">
 <a href="https://github.com/AADI-001/HAWELI-X-ROBOT/stargazers"><img src="https://img.shields.io/github/stars/AADI-001/HAWELI-X-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AADI-001/HAWELI-X-ROBOT/network/members"> <img src="https://img.shields.io/github/forks/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AADI-001/HAWELI-X-ROBOT/network/members"> <img src="https://img.shields.io/github/forks/AADI-001/HAWELI-X-ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/AADI-001/HAWELI-X-ROBOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
@@ -48,7 +48,7 @@
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/Noob-Mukesh/MukeshRobot/blob/main/haweli-x-robot/config.py)
+- Get your [Necessary Variables](https://github.com/AADI-001/HAWELI-X-ROBOT/blob/main/haweli-x-robot/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -90,7 +90,7 @@ Press `Ctrl+b` and then `d`
 ```py
 #ᴀᴅᴅ ʟɪᴄᴇɴsᴇ ᴛᴇxᴛ ʜᴇʀᴇ ɢᴇᴛ ɪᴛ ғʀᴏᴍ ʙᴇʟᴏᴡ.
 
-from MukeshRobot import pbot as mukesh # This is bot's client
+from Haweli import pbot as Haweli # This is bot's client
 from pyrogram import filters # pyrogram filters
 
 
@@ -104,7 +104,7 @@ __help__ = "Module help message"
 async def some_function(_, message):
     await message.reply_text("ɪ'ᴍ.ᴀʟɪᴠᴇ ʙᴀʙʏ❣️!!")
 
-# ᴍᴀɴʏ ᴜsᴇғᴜʟ ғᴜɴᴄᴛɪᴏɴs ᴀʀᴇ ɪɴ, MukeshRobot/utils/,MukeshRobot, and MukeshRobot/modules/
+# ᴍᴀɴʏ ᴜsᴇғᴜʟ ғᴜɴᴄᴛɪᴏɴs ᴀʀᴇ ɪɴ, Hawelixrobot/utils/,Hawelixrobot, and Hawelixrobot/modules/
 ```
 
 <h3 align="center"> 
@@ -117,10 +117,10 @@ async def some_function(_, message):
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/the_support_chat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/fun_with_friendz"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/mukeshbotzone"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=telegram"></a>
+<a href="https://telegram.me/axv_supreme"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
